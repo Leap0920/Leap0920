@@ -1,7 +1,7 @@
-<div style="background-image: url('https://i.pinimg.com/736x/a3/8b/4d/a38b4d3c8592646703b4cd78c7e868df.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 200px; border-radius: 0px; display: flex; align-items: center; justify-content: center; text-align: center; padding: 20px; opacity: 1">
+<div style="background: #1e1b4b; height: 200px; border-radius: 0px; display: flex; align-items: center; justify-content: center; text-align: center; padding: 20px; opacity: 1">
   <div>
-    <h1 style="margin:0;font-weight:bold;color:#ffffff;font-size:48px;text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Carlo Baclao</h1>
-    <p style="margin:8px 0 0 0;font-size:18px;opacity:0.9;color:#ffffff;text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Building modern web applications & open source tools</p>
+    <h1 style="margin:0;font-weight:bold;color:#ffffff;font-size:48px;text-shadow:none">Carlo Baclao</h1>
+    <p style="margin:8px 0 0 0;font-size:18px;opacity:0.9;color:#ffffff;text-shadow:none">Building modern web applications & open source tools</p>
   </div>
 </div>
 
