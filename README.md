@@ -1,4 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=160&section=header&text=Alex%20Developer&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20modern%20web%20applications%20%26%20open%20source%20tools&descAlignY=58&descSize=18" />
+<div style="background-image: url('https://github.com/Leap0920/Leap0920/blob/ab00ca2b336da4c74799093740278da5652efc51/spidy.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 200px; border-radius: 0px; display: flex; align-items: center; justify-content: center; text-align: center; padding: 20px; opacity: 1">
+  <div>
+    <h1 style="margin:0;font-weight:bold;color:#ffffff;font-size:48px;text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Alex Developer</h1>
+    <p style="margin:8px 0 0 0;font-size:18px;opacity:0.9;color:#ffffff;text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Building modern web applications & open source tools</p>
+  </div>
+</div>
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
 
@@ -29,8 +34,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 ---
 *Generated with [DevCard](https://devcard.app)*
