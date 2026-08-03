@@ -37,6 +37,22 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Leap0920&theme=onedark&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leap0920&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c00j9kayyahpj22aytfj6afix&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</div>
+
 ---
 
 ## 🤝 Connect With Me
