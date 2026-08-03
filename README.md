@@ -1,12 +1,4 @@
-<div align="center">
-  <div style="position: relative; display: inline-block; width: 100%; opacity: 1">
-    <img width="100%" height="200" src="https://raw.githubusercontent.com/Leap0920/Leap0920/ab00ca2b336da4c74799093740278da5652efc51/spidy.jpg" alt="Alex Developer - Building modern web applications & open source tools" style="border-radius:0px" />
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; text-align: center; padding: 0 16px">
-      <h1 style="margin:0; font-size:48px; color:#ffffff; text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Alex Developer</h1>
-      <p style="margin:6px 0 0 0; font-size:18px; color:#ffffff; text-shadow:1px 1px 2px rgba(0,0,0,0.8)">Building modern web applications & open source tools</p>
-    </div>
-  </div>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=1,24&height=180&section=header&text=Carlo%20Baclao&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20modern%20web%20applications%20%26%20open%20source%20tools&descAlignY=58&descSize=18" />
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
 
@@ -37,6 +29,8 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 ---
 *Generated with [DevCard](https://devcard.app)*
