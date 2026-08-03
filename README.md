@@ -26,8 +26,8 @@
 
 <div align="center">
 <table><tr>
-<td><img src="https://github-stats-extended.vercel.app/api?username=octocat&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=dark&hide_border=true" height="150" alt="Contribution Streak" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=Leap0920&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Leap0920&theme=dark&hide_border=true" height="150" alt="Contribution Streak" /></td>
 </tr></table>
 </div>
 
