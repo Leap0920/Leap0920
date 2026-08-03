@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f093fb,100:f5576c&height=200&section=header&text=Alex%20Developer&fontSize=48&fontColor=ffffff&desc=Building%20modern%20web%20applications%20%26amp%3B%20open%20source%20tools&descAlignY=58&descSize=18&devcard=custom" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=200&section=header&text=Alex%20Developer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20modern%20web%20applications%20%26amp%3B%20open%20source%20tools&descAlignY=58&descSize=18&devcard=custom" />
 </div>
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
