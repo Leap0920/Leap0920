@@ -1,6 +1,18 @@
-<img width="100%" src="https://raw.githubusercontent.com/Leap0920/Leap0920/ab00ca2b336da4c74799093740278da5652efc51/spidy.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" />
+<div align="center">
+  <div style="position: relative; display: inline-block; width: 100%; opacity: 1">
+    <img width="100%" height="350" src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/spidy.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" style="border-radius:50px" />
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; text-align: center; padding: 0 16px">
+      <h1 style="margin:0; font-size:40px; color:#ce6f6f; text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Carlo Baclao</h1>
+      <p style="margin:6px 0 0 0; font-size:18px; color:#ce6f6f; text-shadow:1px 1px 2px rgba(0,0,0,0.8)">Building modern web applications & open source tools</p>
+    </div>
+  </div>
+</div>
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=basta" alt="Typing SVG" />
+</div>
 
 ## 🔧 Tech Stack
 
