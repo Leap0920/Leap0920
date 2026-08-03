@@ -1,6 +1,6 @@
 <div align="center">
   <div style="width: 100%; opacity: 1; text-align: center">
-    <img width="100%" height="100%" src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/moon%20knight.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" style="border-radius:0px" />
+    <img width="100%" height="280" src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/moon%20knight.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" style="border-radius:0px" />
     <h1 style="margin:12px 0 0 0; font-size:48px; color:#ffffff">Carlo Baclao</h1>
     <p style="margin:4px 0 0 0; font-size:18px; color:#ffffff">Building modern web applications & open source tools</p>
   </div>
@@ -8,7 +8,7 @@
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+---
 
 ## 🔧 Tech Stack
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+---
 
 ## 📈 GitHub Stats
 
@@ -37,7 +37,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+---
 
 ## 🤝 Connect With Me
 
@@ -49,8 +49,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 ---
 *Generated with [DevCard](https://devcard.app)*
