@@ -1,4 +1,9 @@
-<img src="header.svg" width="100%" alt="Alex Developer header banner" />
+<div style="background: #1e1b4b; height: 200px; border-radius: 0px; display: flex; align-items: center; justify-content: center; text-align: center; padding: 20px; opacity: 1">
+  <div>
+    <h1 style="margin:0;font-weight:bold;color:#ffffff;font-size:48px;text-shadow:none">Alex Developer</h1>
+    <p style="margin:8px 0 0 0;font-size:18px;opacity:0.9;color:#ffffff;text-shadow:none">Building modern web applications & open source tools</p>
+  </div>
+</div>
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
 
