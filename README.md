@@ -1,6 +1,6 @@
 <div align="center">
   <div style="width: 100%; opacity: 1; text-align: center">
-    <img width="100%" height="300" src="[https://raw.githubusercontent.com/Leap0920/Leap0920/main/vagabond.jpg](https://github.com/Leap0920/Leap0920/blob/main/moon%20knight.jpg)" alt="Carlo Baclao - Building modern web applications & open source tools" style="border-radius:0px" />
+    <img width="100%" height="280" src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/moon%20knight.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" style="border-radius:0px" />
     <h1 style="margin:12px 0 0 0; font-size:48px; color:#ffffff">Carlo Baclao</h1>
     <p style="margin:4px 0 0 0; font-size:18px; color:#ffffff">Building modern web applications & open source tools</p>
   </div>
