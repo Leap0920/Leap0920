@@ -1,6 +1,6 @@
 <div style="background-image: url('https://github.com/Leap0920/Leap0920/blob/ab00ca2b336da4c74799093740278da5652efc51/spidy.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 200px; border-radius: 0px; display: flex; align-items: center; justify-content: center; text-align: center; padding: 20px; opacity: 1">
   <div>
-    <h1 style="margin:0;font-weight:bold;color:#ffffff;font-size:48px;text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Alex Developer</h1>
+    <h1 style="margin:0;font-weight:bold;color:#ffffff;font-size:48px;text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Carlo Baclao</h1>
     <p style="margin:8px 0 0 0;font-size:18px;opacity:0.9;color:#ffffff;text-shadow:2px 2px 4px rgba(0,0,0,0.8)">Building modern web applications & open source tools</p>
   </div>
 </div>
