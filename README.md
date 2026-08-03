@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=160&section=header&text=Alex%20Developer&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20modern%20web%20applications%20%26%20open%20source%20tools&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alex%20Developer&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20modern%20web%20applications%20%26amp%3B%20open%20source%20tools&descAlignY=58&descSize=18" />
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
 
