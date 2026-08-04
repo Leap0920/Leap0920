@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
