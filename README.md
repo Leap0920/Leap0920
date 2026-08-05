@@ -38,8 +38,8 @@
 <div align="center">
 <table>
 <tr>
-  <td rowspan="2"><img src="https://leetcard.jacoblin.cool/cpcs?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Stats" /></td>
-  <td><img src="https://github-stats-extended.vercel.app/api/wakatime?username=RedKinda&layout=compact&langs_count=5&theme=dark&hide_border=true" alt="WakaTime Stats" width="500" /></td>
+  <td rowspan="2"><img src="https://leetcard.jacoblin.cool/B4Qlw4AMUb?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Stats" /></td>
+  <td><img src="https://github-stats-extended.vercel.app/api/wakatime?username=12f7cb1c-9479-4cc9-9a3c-46d5b33db106&layout=compact&langs_count=5&theme=dark&hide_border=true" alt="WakaTime Stats" width="500" /></td>
 </tr>
 <tr>
   <td><div align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" /></div></td>
@@ -47,12 +47,24 @@
 </table>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Leap0920&theme=radical&column=-1&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+---
+
+## 🖼️ Gallery
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c00j9kayyahpj22aytfj6afix&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+<table>
+<tr>
+  <td><div align="center">
+    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/spidy.jpg" alt="spidy" width="500" />
+  </div></td>
+  <td><div align="center">
+    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/moon%20knight.jpg" alt="moonknight" width="500" />
+  </div></td>
+  <td><div align="center">
+    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/samurai.jpg" alt="samurai" width="500" />
+  </div></td>
+</tr>
+</table>
 </div>
 
 ---
@@ -75,31 +87,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
-
-## 🖼️ Gallery
-
-<div align="center">
-<table>
-<tr>
-  <td><div align="center">
-    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/moon%20knight.jpg" alt="moonknight" width="500" />
-  </div></td>
-  <td><div align="center">
-    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/spidy.jpg" alt="spidy" width="500" />
-  </div></td>
-  <td><div align="center">
-    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/vagabond.jpg" alt="vagabond" width="500" />
-  </div></td>
-</tr>
-<tr>
-  <td><div align="center">
-    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/samurai.jpg" alt="samurai" width="500" />
-  </div></td>
-</tr>
-</table>
-</div>
-
----
 
 ---
 *Generated with [DevCard](https://devcard.app)*
