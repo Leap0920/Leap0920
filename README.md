@@ -1,22 +1,26 @@
 <div align="center">
-  <img width="100%" height="200" src="https://raw.githubusercontent.com/Leap0920/Leap0920/ab00ca2b336da4c74799093740278da5652efc51/spidy.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" />
-  <h1 style="margin:12px 0 0 0; font-size:48px; color:#a11212">Carlo Baclao</h1>
-  <p style="margin:4px 0 0 0; font-size:18px; color:#a11212">Building modern web applications & open source tools</p>
+  <img width="100%" height="400" src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/samurai.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" />
+  <h1 style="margin:12px 0 0 0; font-size:48px; color:#ffffff">Carlo Baclao</h1>
+  <p style="margin:4px 0 0 0; font-size:18px; color:#ffffff">Building modern web applications & open source tools</p>
 </div>
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Regine%20sobrang%20ganda" alt="Typing SVG" />
-</div>
+---
 
 ## 🔧 Tech Stack
 
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SolidJS](https://img.shields.io/badge/-SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?style=for-the-badge&logo=remix&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leap0920&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
 
 ## 📈 GitHub Stats
 
@@ -38,22 +42,28 @@
   <td><img src="https://github-stats-extended.vercel.app/api/wakatime?username=RedKinda&layout=compact&langs_count=5&theme=dark&hide_border=true" alt="WakaTime Stats" width="500" /></td>
 </tr>
 <tr>
-  <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" /></td>
+  <td><div align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" /></div></td>
 </tr>
 </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Leap0920&theme=radical&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leap0920&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Leap0920&theme=radical&column=-1&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c00j9kayyahpj22aytfj6afix&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&backgroundColor=00000000&t=1" alt="Random Dev Quote" />
+</div>
+
+---
 
 ## 🤝 Connect With Me
 
@@ -65,6 +75,31 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
+
+## 🖼️ Gallery
+
+<div align="center">
+<table>
+<tr>
+  <td><div align="center">
+    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/moon%20knight.jpg" alt="moonknight" width="500" />
+  </div></td>
+  <td><div align="center">
+    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/spidy.jpg" alt="spidy" width="500" />
+  </div></td>
+  <td><div align="center">
+    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/vagabond.jpg" alt="vagabond" width="500" />
+  </div></td>
+</tr>
+<tr>
+  <td><div align="center">
+    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/samurai.jpg" alt="samurai" width="500" />
+  </div></td>
+</tr>
+</table>
+</div>
+
+---
 
 ---
 *Generated with [DevCard](https://devcard.app)*
