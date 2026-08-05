@@ -49,7 +49,7 @@
 
 ---
 
-## 🖼️ Gallery
+## Gallery
 
 <div align="center">
 <table>
