@@ -1,31 +1,29 @@
 <div align="center">
-  <div style="width: 100%; opacity: 1; text-align: center">
-    <img width="100%" height="300" src="https://raw.githubusercontent.com/Leap0920/Leap0920/ab00ca2b336da4c74799093740278da5652efc51/spidy.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" style="border-radius:50px" />
-    <h1 style="margin:12px 0 0 0; font-size:48px; color:#ffffff">Carlo Baclao</h1>
-    <p style="margin:4px 0 0 0; font-size:18px; color:#ffffff">Building modern web applications & open source tools</p>
-  </div>
+  <img width="100%" height="200" src="https://raw.githubusercontent.com/Leap0920/Leap0920/ab00ca2b336da4c74799093740278da5652efc51/spidy.jpg" alt="Carlo Baclao - Building modern web applications & open source tools" />
+  <h1 style="margin:12px 0 0 0; font-size:48px; color:#a11212">Carlo Baclao</h1>
+  <p style="margin:4px 0 0 0; font-size:18px; color:#a11212">Building modern web applications & open source tools</p>
 </div>
 
 <p align="center">Full-stack software developer passionate about TypeScript, React, and serverless architectures.</p>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Regine%20sobrang%20ganda" alt="Typing SVG" />
+</div>
 
 ## 🔧 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react" height="30" alt="react" /> <img src="https://skillicons.dev/icons?i=ts" height="30" alt="ts" /> <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs" /> <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind" /> <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs" /> <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres" /> <img src="https://skillicons.dev/icons?i=js" height="30" alt="js" /> <img src="https://skillicons.dev/icons?i=py" height="30" alt="py" /> <img src="https://skillicons.dev/icons?i=go" height="30" alt="go" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap" /> <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel" /> <img src="https://skillicons.dev/icons?i=java" height="30" alt="java" /> <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" /> <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin" /> <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql" /> <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb" /> <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite" /> <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase" /> <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase" /> <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker" /> <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify" /> <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel" /> <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions" /> <img src="https://skillicons.dev/icons?i=react" height="30" alt="react" /> <img src="https://skillicons.dev/icons?i=git" height="30" alt="git" /> <img src="https://skillicons.dev/icons?i=github" height="30" alt="github" /> <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab" /> <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode" /> <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite" />
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SolidJS](https://img.shields.io/badge/-SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?style=for-the-badge&logo=remix&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-
----
 
 ## 📈 GitHub Stats
 
 <div align="center">
 <table><tr>
 <td><img src="https://github-stats-extended.vercel.app/api?username=Leap0920&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Leap0920&theme=dark&hide_border=true" height="150" alt="Contribution Streak" /></td>
+<td><img src="https://github-readme-streak-stats-azure.vercel.app/?user=Leap0920&theme=dark&hide_border=true" height="150" alt="Contribution Streak" /></td>
 </tr></table>
 </div>
 
@@ -34,15 +32,19 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="100%" />
+<table>
+<tr>
+  <td rowspan="2"><img src="https://leetcard.jacoblin.cool/cpcs?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Stats" /></td>
+  <td><img src="https://github-stats-extended.vercel.app/api/wakatime?username=RedKinda&layout=compact&langs_count=5&theme=dark&hide_border=true" alt="WakaTime Stats" width="500" /></td>
+</tr>
+<tr>
+  <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" /></td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Leap0920&theme=onedark&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Leap0920&theme=radical&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
@@ -52,8 +54,6 @@
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=c00j9kayyahpj22aytfj6afix&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
-
----
 
 ## 🤝 Connect With Me
 
