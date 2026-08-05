@@ -36,42 +36,6 @@
 </div>
 
 <div align="center">
-<table>
-<tr>
-  <td rowspan="2"><img src="https://leetcard.jacoblin.cool/B4Qlw4AMUb?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Stats" /></td>
-  <td><img src="https://github-stats-extended.vercel.app/api/wakatime?username=12f7cb1c-9479-4cc9-9a3c-46d5b33db106&layout=compact&langs_count=5&theme=dark&hide_border=true" alt="WakaTime Stats" width="500" /></td>
-</tr>
-<tr>
-  <td><div align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leap0920&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" /></div></td>
-</tr>
-</table>
-</div>
-
----
-
-## Gallery
-
-<div align="center">
-<table>
-<tr>
-  <td><div align="center">
-    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/spidy.jpg" alt="spidy" width="500" />
-  </div></td>
-  <td><div align="center">
-    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/moon%20knight.jpg" alt="moonknight" width="500" />
-  </div></td>
-  <td><div align="center">
-    <img src="https://raw.githubusercontent.com/Leap0920/Leap0920/main/samurai.jpg" alt="samurai" width="500" />
-  </div></td>
-</tr>
-</table>
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&backgroundColor=00000000&t=1" alt="Random Dev Quote" />
 </div>
 
@@ -80,11 +44,17 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="carlobaclao.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/baclao-carlo-22936435a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://profile.indeed.com/p/carlob-c5yt782" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-6C63FF?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
+  </a>
+  <a href="https://ph.jobstreet.com/profiles/carlo-baclao-CHYbs3Qm5M" target="_blank">
+    <img src="https://img.shields.io/badge/Jobstreet-6C63FF?style=for-the-badge&logo=jobstreet&logoColor=white" alt="Jobstreet" />
   </a>
 </div>
 
